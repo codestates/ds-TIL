@@ -3,8 +3,8 @@
 TIL 작성시 유의사항을 숙지해주시기 바랍니다.
 
 ## 처음 오신 수강생분들을 위한 간단 TIL 절차
-1) 먼저 TIL repository를 자신의 GitHub 계정으로 Fork 한다
-2) TIL을 Markdown 문법을 사용해 작성한다 (간단한 markdown 문법은 [이 페이지](https://github.com/codestates/help-desk-ds/wiki/Markdown-Syntax)에서 보실 수 있습니다)
+1) 먼저 TIL repository를 자신의 GitHub 계정으로 Fork  해옵니다
+2) TIL을 Markdown 문법을 사용해 작성합니다 (간단한 markdown 문법은 [이 페이지](https://github.com/codestates/help-desk-ds/wiki/Markdown-Syntax)에서 보실 수 있습니다)
 3) TIL을 **이름_TIL_날짜.md** (예: 홍길동_TIL_20200831.md) 형식으로 저장 후, TIL repository로 Pull Request를 보냅니다
 
 ## TIL 작성시 유의사항
