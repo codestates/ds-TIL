@@ -3,7 +3,7 @@
 `TIL` 작성시 유의사항을 숙지해주시기 바랍니다.
 
 ## 처음 오신 수강생분들을 위한 간단 TIL 절차
-- Issues에서 [New Issue](https://github.com/codestates/ds-TIL/issues/new)를 클릭 후, `TIL`을 작성합니다 (간단한 markdown 문법은 [UrClass](https://urclass.codestates.com/) 에서 `DS Docs`에 위치한 **Markdown Syntax Cheatsheet**에서 확인하실 수 있습니다)  
+- Issues에서 [New Issue](https://github.com/codestates/ds-TIL/issues/new/choose)를 클릭 후, `TIL`을 작성합니다 (간단한 markdown 문법은 [UrClass](https://urclass.codestates.com/) 에서 `DS Docs`에 위치한 **Markdown Syntax Cheatsheet**에서 확인하실 수 있습니다)  
   **:bookmark_tabs: 작성 화면 가이드**  
   <img src="TIL_template.png" width='800'>
 - 다른 수강생분들의 `TIL`도 읽어본 후 댓글과 함께 소통합니다  
